@@ -1,0 +1,117 @@
+{
+  "employeelist": [
+    {
+      "name": "akshata Thube",
+      "phone": "9689729127",
+      "email": "thubeakshata7728@gmail.com",
+      "address": "At post Parner, Tal-Parner, Dist-A.Nagar",
+      "id": 1
+    },
+    {
+      "name": "avishkar",
+      "phone": "9689729127",
+      "email": "avishkar123@gmail.com",
+      "address": "At post Parner, Tal-Parner, Dist-A.Nagar",
+      "id": 2
+    },
+    {
+      "name": "ashlesha",
+      "phone": "9894561230",
+      "email": "ash@gmail.com",
+      "address": "pune",
+      "id": 3
+    },
+    {
+      "name": "ashwini",
+      "phone": "8596589625",
+      "email": "ashwini@gmail.com",
+      "address": "kolhapur",
+      "id": 4
+    },
+    {
+      "name": "viren",
+      "phone": "9425859635",
+      "email": "viren@gmail.com",
+      "address": "kolhapur",
+      "id": 6
+    },
+    {
+      "name": "shreysh",
+      "phone": "9856235689",
+      "email": "shreyash@gmail.com",
+      "address": "pune",
+      "id": 8
+    },
+    {
+      "name": "samiksha",
+      "phone": "9856235689",
+      "email": "samu@gmail.com",
+      "address": "pune",
+      "id": 9
+    },
+    {
+      "name": "anvi  sachin kute",
+      "phone": "9258457896",
+      "email": "anvi@gmail.com",
+      "address": "Nashik",
+      "id": 10
+    }
+  ],
+  "empregister": [
+    {
+      "name": "Akshata Vasantrao Thube",
+      "mobile": "9689729127",
+      "email": "thubeakshata7728@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Ashlesha Vasantrao Thube",
+      "mobile": "+918329270927",
+      "email": "ash@gmail.com",
+      "password": "7894561",
+      "id": 2
+    }
+  ],
+  "adminregister": [
+    {
+      "name": "Akshata Vasantrao Thube",
+      "mobile": "9689729127",
+      "email": "thubeakshata7728@gmail.com",
+      "password": "77287728",
+      "id": 1
+    },
+    {
+      "name": "akshata",
+      "mobile": "09689729127",
+      "email": "thubeakshata7728@gmail.com",
+      "password": "akshata7728",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "roles": [
+    {
+      "roleId": 10,
+      "name": "manager"
+    },
+    {
+      "roleId": 20,
+      "name": "developer"
+    }
+  ]
+}
